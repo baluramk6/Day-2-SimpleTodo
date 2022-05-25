@@ -1,0 +1,12 @@
+.add-btn {
+  width: 80px;
+  height: 40px;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border: 2px solid greenyellow;
+  border-left: none;
+  background-color: green;
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+}

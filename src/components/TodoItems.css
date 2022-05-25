@@ -1,0 +1,43 @@
+input {
+  width: 300px;
+  height: 34px;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border: 2px solid greenyellow;
+  border-right: none;
+}
+
+.item-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.delete-btn {
+  width: 80px;
+  height: 52px;
+  border: none;
+  background-color: gray;
+  margin-left: 15px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: white;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  color: black;
+  background-color: red;
+}
+
+h3 {
+  height: 50px;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  background-color: slateblue;
+  padding-left: 10px;
+  padding-right: 10px;
+}
